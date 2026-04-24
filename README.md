@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Maurya</h1>
+<h1 align="center">Hi 👋, I'm Sandeep Kushwaha aka Indiaboy Dev</h1>
 
 ###
 
