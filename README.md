@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🕹️ Game Developer <br>✨ Solo Developer | Multi-skilled Creator.<br>📚 I'm currently learning Node JS<br>🎯 Trying to build own community. <br>🎲 PC Gaming Connoisseur.<br>📅 Date of birth : 07 August 2004<br>📍India</p>
+<p align="left">🕹️ Game Developer <br>✨ Solo Developer | Multi-skilled Creator.<br>📚 I'm currently learning C#<br>🎯 Trying to build own community. <br>🎲 PC Gaming Connoisseur.<br>📅 Date of birth : 02 February 2008<br>📍India</p>
 
 ###
 
